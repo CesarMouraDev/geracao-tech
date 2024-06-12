@@ -1,0 +1,2 @@
+# geracao-tech
+For study
